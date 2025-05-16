@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yuriytuk/ra-1.1.git/static/css/main.40531c3d.css",
+    "main.js": "/yuriytuk/ra-1.1.git/static/js/main.f11c151f.js",
+    "static/js/453.7388eb13.chunk.js": "/yuriytuk/ra-1.1.git/static/js/453.7388eb13.chunk.js",
+    "static/media/item-blue.jpg": "/yuriytuk/ra-1.1.git/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/yuriytuk/ra-1.1.git/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/yuriytuk/ra-1.1.git/index.html",
+    "main.40531c3d.css.map": "/yuriytuk/ra-1.1.git/static/css/main.40531c3d.css.map",
+    "main.f11c151f.js.map": "/yuriytuk/ra-1.1.git/static/js/main.f11c151f.js.map",
+    "453.7388eb13.chunk.js.map": "/yuriytuk/ra-1.1.git/static/js/453.7388eb13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40531c3d.css",
+    "static/js/main.f11c151f.js"
+  ]
+}
